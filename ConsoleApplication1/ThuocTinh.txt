@@ -1,0 +1,5 @@
+Wood;Fire;Earth
+Fire;Earth;Metal
+Earth;Metal;Water
+Metal;Water;Wood
+Water;Wood;Fire

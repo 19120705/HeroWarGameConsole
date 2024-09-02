@@ -1,0 +1,12 @@
+﻿//
+/////////////////////////////////hàm main đây/////////////////////////////////////
+
+#include"XuLy.h"
+#include"Menu.h"
+
+int main()
+{
+	XuLyMenu();
+	return 0;
+}
+
